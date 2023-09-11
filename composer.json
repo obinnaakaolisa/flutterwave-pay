@@ -1,0 +1,21 @@
+{
+    "name": "obinnaakaolisa/flutterwave-pay",
+    "description": "This is a PHP package for intitating and verifying Flutterwave transactions via the Flutterave transactions API",
+    "type": "library",
+    "require": {
+        "php": "^7.0",
+        "curl/curl": "^2.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "obinnaakaolisa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Obinna Akaolisa",
+            "email": "akaolisaobinna@gmail.com"
+        }
+    ]
+}
