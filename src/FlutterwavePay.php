@@ -1,6 +1,6 @@
 <?php
 
-namespace obinnaakaolisa;
+namespace obinnaakaolisa\FlutterwavePayments;
 
 use Curl\Curl;
 
